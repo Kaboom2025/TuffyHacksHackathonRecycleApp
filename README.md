@@ -13,14 +13,13 @@ Christopher Antes: : 📫 890popbox@gmail.com
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 In this project we will implement a software to analyze and rate object to be recycled, then reward the individual with crypto
-- FaceID, Email/Password
-- Accept Item to be recycled
-- Use AI to figure out what item it is
-- Allot a certain amount of Crypto per item
-- Transfer crypto to user
-R2C
+1. FaceID, Email/Password
+1. Accept Item to be recycled
+1. Use AI to figure out what item it is
+1. Allot a certain amount of Crypto per item
+1. Transfer crypto to user
 
-
+# R2C
 Softwares we used are:
 - [x] Darknet 
 - [x] YOLOv3
@@ -28,3 +27,14 @@ Softwares we used are:
 - [x] Google Cloud Virtual Machine
 - [x] SmartContracts through Solidity
 - [x] OpenCV  
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Sample Work:
+
+
+
+
+
+
+
+
