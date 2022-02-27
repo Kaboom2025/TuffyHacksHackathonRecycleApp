@@ -13,10 +13,10 @@ Christopher Antes: : 📫 890popbox@gmail.com
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 In this project we will implement a software to analyze and rate object to be recycled, then reward the individual with crypto
-- [ ] FaceID, Email/Passs
-- [ ] Accept Item to be recycled
-- [ ] Rate the item
-- [ ] Transfer crypto to user
+- FaceID, Email/Passs
+- Accept Item to be recycled
+- Rate the item
+- Transfer crypto to user
 R2C
 
 
