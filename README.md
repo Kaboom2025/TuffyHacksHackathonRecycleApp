@@ -38,7 +38,7 @@ Softwares we used are:
 </b>
 ##Item 1 with Computer Vision
 <img width="458" alt="Bot_2" src="https://user-images.githubusercontent.com/34997278/155865746-297bb419-185d-4730-94da-3f8946ce7bd2.png">
-
+</b>
 ##Item 2
 <img width="510" alt="Mac_1" src="https://user-images.githubusercontent.com/34997278/155865749-c10dab40-ff53-48bc-a159-0492413758ea.png">
 </b>
