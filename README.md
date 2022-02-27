@@ -1,5 +1,5 @@
 # TuffyHacksHackathonRecycleApp
-
+Recycle2Crypto
 Group members:
 
 Saalik Ahmed: 📫 Saalikahmed@gmail.com
@@ -13,9 +13,10 @@ Christopher Antes: : 📫 890popbox@gmail.com
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 In this project we will implement a software to analyze and rate object to be recycled, then reward the individual with crypto
-- FaceID, Email/Passs
+- FaceID, Email/Password
 - Accept Item to be recycled
-- Rate the item
+- Use AI to figure out what item it is
+- Allot a certain amount of Crypto per item
 - Transfer crypto to user
 R2C
 
