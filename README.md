@@ -1,5 +1,6 @@
 # TuffyHacksHackathonRecycleApp
-Recycle2Crypto
+Recycle2Crypto (R2C)
+
 Group members:
 
 Saalik Ahmed: 📫 Saalikahmed@gmail.com
@@ -29,8 +30,7 @@ Softwares we used are:
 - [x] OpenCV  
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Sample Work:
-
+## Sample Work:
 
 <img width="457" alt="Bot_1" src="https://user-images.githubusercontent.com/34997278/155865745-3feddd82-de81-4957-bd74-79d39662377e.png">
 <img width="458" alt="Bot_2" src="https://user-images.githubusercontent.com/34997278/155865746-297bb419-185d-4730-94da-3f8946ce7bd2.png">
