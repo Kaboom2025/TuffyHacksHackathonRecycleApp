@@ -32,11 +32,14 @@ Softwares we used are:
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Sample Work:
 
+##Item 1
 <img width="457" alt="Bot_1" src="https://user-images.githubusercontent.com/34997278/155865745-3feddd82-de81-4957-bd74-79d39662377e.png">
+##Item 1 with Computer Vision
 <img width="458" alt="Bot_2" src="https://user-images.githubusercontent.com/34997278/155865746-297bb419-185d-4730-94da-3f8946ce7bd2.png">
 
-
+##Item 2
 <img width="510" alt="Mac_1" src="https://user-images.githubusercontent.com/34997278/155865749-c10dab40-ff53-48bc-a159-0492413758ea.png">
+##Item 2 with Computer Vision
 <img width="513" alt="Mac_2" src="https://user-images.githubusercontent.com/34997278/155865751-82781388-8fb2-4c85-9e9e-7addc4fc96e7.png">
 
 
